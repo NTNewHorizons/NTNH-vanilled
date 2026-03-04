@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "pneumaticcraft:creative_compressor"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

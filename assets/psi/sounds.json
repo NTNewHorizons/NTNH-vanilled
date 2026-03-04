@@ -1,0 +1,56 @@
+{
+  "bullet_create": {
+    "category": "block",
+    "sounds": [
+      "psi:bullet_create"
+    ]
+  },
+  "cad_create": {
+    "category": "block",
+    "sounds": [
+      "psi:cad_create"
+    ]
+  },
+  "cad_shoot": {
+    "category": "player",
+    "sounds": [
+      "psi:cad_shoot"
+    ]
+  },
+  "compile_error": {
+    "category": "block",
+    "sounds": [
+      "psi:compile_error"
+    ]
+  },
+  "level_up": {
+    "category": "player",
+    "sounds": [
+      "psi:level_up"
+    ]
+  },
+  "loopcast": {
+    "category": "player",
+    "sounds": [
+      "psi:loopcast"
+    ]
+  },
+  "book": {
+    "category": "player",
+    "sounds": [
+      "psi:book"
+    ]
+  },
+  "book_flip": {
+    "category": "player",
+    "sounds": [
+      "psi:book_flip"
+    ]
+  },
+  "book_open": {
+    "category": "player",
+    "sounds": [
+      "psi:book_open"
+    ]
+  }
+}

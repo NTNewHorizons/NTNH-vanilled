@@ -1,5 +1,6 @@
 # FORKED FROM Vitya2127's NTM VANILLED
-
+## Original README.md:
+---
 ## A little warning
 *Initially, this resource pack was private and very raw, but people asked to post.*
 
@@ -7,9 +8,9 @@
 # NTM Vanilled
 This Resource Pack changes the textures of the Hbm's Nuclear Tech mod to textures in the style of new versions of Minecraft, and also fixes some textures in the mod.
 
-The Resource Pack is under development, so expect any changes!
+The resourcepack is under development, so expect any changes!
 # Known issues
-**I can't choose a Pack Resource!**
+**I can't choose the resourcepack!**
 > Most likely, the zip was damaged. Download a new one or unzip.
 
 **The models are broken!**

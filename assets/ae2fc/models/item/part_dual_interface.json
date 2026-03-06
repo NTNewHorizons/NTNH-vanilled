@@ -1,8 +1,0 @@
-{
-    "parent": "appliedenergistics2:item/part/interface",
-    "textures": {
-        "sides": "ae2fc:parts/interface_sides",
-        "back": "ae2fc:parts/interface_back",
-        "front": "ae2fc:items/part/interface"
-    }
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "actuallyadditions:item/item_template_dust",
-  "textures": {
-    "dust": "actuallyadditions:items/item_crushed_diamond"
-  }
-}

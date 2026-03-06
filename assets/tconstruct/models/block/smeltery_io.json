@@ -1,8 +1,0 @@
-{
-  "parent": "tconstruct:block/template/io",
-  "textures": {
-    "drain": "tconstruct:blocks/smeltery/drain_front",
-    "bricks": "tconstruct:blocks/smeltery/seared_brick",
-    "back": "tconstruct:blocks/smeltery/drain_back"
-  }
-}
